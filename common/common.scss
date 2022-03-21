@@ -38,9 +38,9 @@
       grid-column: #{$categories-column};
       grid-row: #{$categories-row};
     }
-    @if $hide-categories-column == 'true' {
-      display: none;
-    }
+    // @if $hide-categories-column == 'true' {
+    //   display: none;
+    // }
   }
 
   > .tag-column {

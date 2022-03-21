@@ -1,8 +1,9 @@
-.category-boxes div.column.categories{
+.category-boxes div.column.categories {
   margin-right: 0 !important;
 }
 
 .category-boxes {
+  position: fixed;
   display: flex;
   gap: 2em;
 
